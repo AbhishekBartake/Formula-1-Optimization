@@ -3,9 +3,9 @@
 
 # COMMAND ----------
 
-spark.conf.set(
-    "fs.azure.account.key.f1dl3.dfs.core.windows.net",
-    "{Access_key}")
+# spark.conf.set(
+#     "fs.azure.account.key.f1dl3.dfs.core.windows.net",
+#     "{Access_key}")
 
 # COMMAND ----------
 
