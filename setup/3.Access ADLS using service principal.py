@@ -8,9 +8,9 @@
 
 # COMMAND ----------
 
-client_id="dc6c5244-24aa-4fb3-8a92-a5c0a95c95c6"
-tenant_id="ee7be4de-db7f-4948-bde1-f41f342c050d"
-client_secret="Sz38Q~yhvkHyATQoXmxRlA5LlRAKR~IlJ28zZaZ4"
+client_id="{Client_id}"
+tenant_id="{tenant_id}"
+client_secret="{client_secret}"
 #these you'll find in your Azure portal under Entra ID 
 
 # COMMAND ----------
